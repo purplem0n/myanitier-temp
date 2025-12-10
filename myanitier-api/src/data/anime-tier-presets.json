@@ -1,0 +1,585 @@
+[
+  {
+    "name": "Seasonal Tierlists",
+    "presets": [
+      {
+        "name": "Fall 2025",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "FALL",
+          "seasonYear": 2025
+        }
+      },
+      {
+        "name": "Summer 2025",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SUMMER",
+          "seasonYear": 2025
+        }
+      },
+      {
+        "name": "Spring 2025",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SPRING",
+          "seasonYear": 2025
+        }
+      },
+      {
+        "name": "Winter 2025",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "WINTER",
+          "seasonYear": 2025
+        }
+      },
+      {
+        "name": "Fall 2024",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "FALL",
+          "seasonYear": 2024
+        }
+      },
+      {
+        "name": "Summer 2024",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SUMMER",
+          "seasonYear": 2024
+        }
+      },
+      {
+        "name": "Spring 2024",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SPRING",
+          "seasonYear": 2024
+        }
+      },
+      {
+        "name": "Winter 2024",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "WINTER",
+          "seasonYear": 2024
+        }
+      },
+      {
+        "name": "Fall 2023",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "FALL",
+          "seasonYear": 2023
+        }
+      },
+      {
+        "name": "Summer 2023",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SUMMER",
+          "seasonYear": 2023
+        }
+      },
+      {
+        "name": "Spring 2023",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SPRING",
+          "seasonYear": 2023
+        }
+      },
+      {
+        "name": "Winter 2023",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "WINTER",
+          "seasonYear": 2023
+        }
+      },
+      {
+        "name": "Fall 2022",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "FALL",
+          "seasonYear": 2022
+        }
+      },
+      {
+        "name": "Summer 2022",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SUMMER",
+          "seasonYear": 2022
+        }
+      },
+      {
+        "name": "Spring 2022",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SPRING",
+          "seasonYear": 2022
+        }
+      },
+      {
+        "name": "Winter 2022",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "WINTER",
+          "seasonYear": 2022
+        }
+      },
+      {
+        "name": "Fall 2021",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "FALL",
+          "seasonYear": 2021
+        }
+      },
+      {
+        "name": "Summer 2021",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SUMMER",
+          "seasonYear": 2021
+        }
+      },
+      {
+        "name": "Spring 2021",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "SPRING",
+          "seasonYear": 2021
+        }
+      },
+      {
+        "name": "Winter 2021",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "season": "WINTER",
+          "seasonYear": 2021
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yearly Tierlists",
+    "presets": [
+      {
+        "name": "2025",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2025
+        }
+      },
+      {
+        "name": "2024",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2024
+        }
+      },
+      {
+        "name": "2023",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2023
+        }
+      },
+      {
+        "name": "2022",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2022
+        }
+      },
+      {
+        "name": "2021",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-oeviACzGv5Vx.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2021
+        }
+      },
+      {
+        "name": "2020",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2020
+        }
+      },
+      {
+        "name": "2019",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2019
+        }
+      },
+      {
+        "name": "2018",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-AiPDD8cwlCfi.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2018
+        }
+      },
+      {
+        "name": "2017",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2017
+        }
+      },
+      {
+        "name": "2016",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2016
+        }
+      },
+      {
+        "name": "2015",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2015
+        }
+      },
+      {
+        "name": "2014",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2014
+        }
+      },
+      {
+        "name": "2013",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2013
+        }
+      },
+      {
+        "name": "2012",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2012
+        }
+      },
+      {
+        "name": "2011",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2011
+        }
+      },
+      {
+        "name": "2010",
+        "thumbnailUrl": "",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2010
+        }
+      },
+      {
+        "name": "2009",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2009
+        }
+      },
+      {
+        "name": "2008",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2008
+        }
+      },
+      {
+        "name": "2007",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2007
+        }
+      },
+      {
+        "name": "2006",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+        "filters": {
+          "sort": "POPULARITY_DESC",
+          "seasonYear": 2006
+        }
+      }
+    ]
+  },
+  {
+    "name": "Genre Tierlists",
+    "presets": [
+      {
+        "name": "Action Shounen",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+        "filters": {
+          "tagsInclude": "Shounen",
+          "genresInclude": "Action",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Drama Rom-Com",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+        "filters": {
+          "genresInclude": "Drama,Romance,Comedy",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Drama Romance",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-SUo3ZQuCbYhJ.png",
+        "filters": {
+          "genresInclude": "Drama,Romance",
+          "genresExclude": "Comedy",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Fantasy Adventure",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+        "filters": {
+          "genresInclude": "Fantasy,Adventure",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Historical Drama",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+        "filters": {
+          "tagsInclude": "Historical",
+          "genresInclude": "Drama",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Horror Supernatural",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+        "filters": {
+          "genresInclude": "Horror,Supernatural",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Isekai",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+        "filters": {
+          "tagsInclude": "Isekai",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Isekai (Inside Game)",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+        "filters": {
+          "tagsInclude": "Isekai,Video Games",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Isekai (Non-Game)",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+        "filters": {
+          "tagsInclude": "Isekai",
+          "tagsExclude": "Video Games",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Josei",
+        "thumbnailUrl": "",
+        "filters": {
+          "tagsInclude": "Josei",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Mahou Shoujo",
+        "thumbnailUrl": "",
+        "filters": {
+          "genresInclude": "Mahou Shoujo",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Music Idol",
+        "thumbnailUrl": "",
+        "filters": {
+          "tagsInclude": "Idol",
+          "genresInclude": "Music",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Mystery Thriller",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+        "filters": {
+          "genresInclude": "Mystery,Thriller",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Psychological Thriller",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+        "filters": {
+          "genresInclude": "Psychological,Thriller",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Rom-Com",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+        "filters": {
+          "genresInclude": "Romance,Comedy",
+          "genresExclude": "Drama",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "School Romance",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+        "filters": {
+          "tagsInclude": "School",
+          "genresInclude": "Romance",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Sci-Fi Mecha",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
+        "filters": {
+          "genresInclude": "Sci-Fi,Mecha",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Seinen",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+        "filters": {
+          "tagsInclude": "Seinen",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Shoujo",
+        "thumbnailUrl": "",
+        "filters": {
+          "tagsInclude": "Shoujo",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Shounen",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+        "filters": {
+          "tagsInclude": "Shounen",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Shounen (Non-Action)",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
+        "filters": {
+          "tagsInclude": "Shounen",
+          "genresExclude": "Action",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Slice of Life Comedy",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+        "filters": {
+          "genresInclude": "Slice of Life,Comedy",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Sports",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+        "filters": {
+          "genresInclude": "Sports",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      },
+      {
+        "name": "Supernatural Mystery",
+        "thumbnailUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+        "filters": {
+          "genresInclude": "Supernatural,Mystery",
+          "sort": "POPULARITY_DESC",
+          "minimumTagRank": 80
+        }
+      }
+    ]
+  },
+  {
+    "name": "Studio Tierlists",
+    "presets": []
+  }
+]
